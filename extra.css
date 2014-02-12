@@ -20,7 +20,7 @@ body{
 	margin-left:auto;
 	margin-right:auto;
 	width:500px;
-	margin-top:180px;
+	margin-top:160px;
 	text-align:center;
 }
 
@@ -47,9 +47,15 @@ body{
 	margin:5px;
 }
 
+.btn-custom:hover, .btn-custom:focus{
+	cursor:pointer;
+	background-color:#d6c5b0;
+	border-bottom:5px solid #bdaa93;
+}
+
 .wrapper{
-	padding-top:50px;
-	padding-bottom:50px;
+	padding-top:60px;
+	padding-bottom:60px;
 	min-height:180px;
 }
 
@@ -57,4 +63,10 @@ footer{
 	background-color:#48403E;
 	height:150px;
 	padding-top:50px;
+}
+
+.nav > li > a:hover,
+.nav > li > a:focus {
+  text-decoration: none;
+  background-color: #b23218;
 }
