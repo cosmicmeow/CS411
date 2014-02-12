@@ -1,3 +1,8 @@
+body{
+	font-family:'Maven Pro', sans-serif;
+	font-size:15px;
+}
+
 .navbar-red{
 	background-color:#D42900;
 }
@@ -31,13 +36,15 @@
 }
 
 .btn-custom{
-	padding-top:12px;
+	padding-top:10px;
 	background-color:#E3D1BC;
 	border-radius:0;
 	width:180px;
 	height:50px;
 	border-bottom:5px solid #CFBCA5;
 	color:#48403E;
+	font-size:18px;
+	margin:5px;
 }
 
 .wrapper{
