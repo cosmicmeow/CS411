@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="../../assets/ico/favicon.ico">
+
+    <title>CS410 --  Deliverables</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy this line! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Custom styles for this template -->
+    <link href="carousel.css" rel="stylesheet">
+    <link href="extra.css" rel="stylesheet">
+
+    <link href='http://fonts.googleapis.com/css?family=Maven+Pro' rel='stylesheet' type='text/css'>
+  </head>
+<!-- NAVBAR
+================================================== -->
+  <body>
+
+	<div class="navbar navbar-red navbar-fixed-top" role="navigation">
+	  <div class="container">
+	    <div class="navbar-header">
+	      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+	        <span class="sr-only">Toggle navigation</span>
+	        <span class="icon-bar"></span>
+	        <span class="icon-bar"></span>
+	        <span class="icon-bar"></span>
+	      </button>
+	      <a class="navbar-brand" href="http://www.cs.odu.edu/~410red/">Project name</a>
+	    </div>
+	    <div class="navbar-collapse collapse">
+	      <ul class="nav navbar-nav">
+	        <li class="active"><a href="http://www.cs.odu.edu/~410red/">Overview</a></li>
+	        <li><a href="#about">Deliverables</a></li>
+	        <li><a href="http://www.cs.odu.edu/~410red/team.html">About Us</a></li>
+	      </ul>
+	    </div>
+	  </div>
+	</div>
+
+
+    <!-- Carousel
+    ================================================== -->
+    <div class="header header-team">
+    	<div class="container">
+    		<div class="content_team">
+    			<h1>Deliverables</h1>
+    		</div>
+    	</div>
+    </div>
+
+
+
+  <!-- Marketing messaging and featurettes
+  ================================================== -->
+  <!-- Wrap the rest of the page in another container to center all the content. -->
+    
+	<div class="wrapper" style="background-color:#fff;padding-top:50px;text-align:center;border-bottom:1px solid #d4d4d4">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <h2 style="margin-top:0;text-align:left">Problem Statement</h2>
+          <p style="text-align:left">
+              The current class enrollment system is insufficient for handling course overflows.
+          </p>
+        </div>
+      </div>
+    
+	  </div>
+	</div>
+
+	 <div class="wrapper" style="background-color:#d4d4d4;padding-top:50px;text-align:center;border-bottom:1px solid #d4d4d4">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <h2 style="margin-top:0;text-align:left">Societal Problem</h2>
+          <p style="text-align:left">The current course sign up system results in excess student communication with faculty in order to facilitate the student's desire to be enrolled in a specific course when it is full. While the student and faculty body are attempting to resolve this issue, they are taken away from their other tasks. Implementing a wait list feature to the current working course add/drop system will greatly reduce the number of these avoidable communications.</p>
+        </div>
+      </div>
+    
+    </div>
+  </div>
+
+  <div class="wrapper" style="background-color:#fff;padding-top:50px;text-align:center;border-bottom:1px solid #d4d4d4">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <h2 style="margin-top:0;text-align:left">Problem Characteristics</h2>
+          <p style="text-align:left">
+              <h3>Current System's Flaws:</h3></p>
+              <ul>
+                <li>Confusing</li>
+                <li>Time Consuming</li>
+                <li>Inefficient</li>
+                <li>Leads to faculty, student, and administrative staff headache when a full course appears.</li>
+              </ul>
+              <p>
+              This graph shows that throughout the years CS250 has stayed close if not full. If you look at Spring 2013, the amount enrolled (blue) is higher than the amound available (red.) This is a perfect example of why we need a program to handle our "waitlist" issue.
+          </p>
+        </div>
+      </div>
+    
+    </div>
+  </div>
+
+      <!-- FOOTER -->
+      <footer>
+      	<div class="container">
+	        <p class="pull-right"><a href="#">Back to top</a></p>
+	        <p>&copy; 2014 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
+      	</div>
+      </footer>
+
+    </div><!-- /.container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="../../dist/js/bootstrap.min.js"></script>
+    <script src="../../assets/js/docs.min.js"></script>
+  </body>
+</html>
