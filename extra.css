@@ -12,7 +12,9 @@ body{
 }
 
 .header{
-	background-color:#DE3416;
+	background-color:#BF2E14;
+	background-image:url('dist/img/red_bg.png');
+	background-repeat: repeat;
 	height:460px;
 }
 
