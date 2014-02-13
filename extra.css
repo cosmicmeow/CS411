@@ -3,6 +3,13 @@ body{
 	font-size:15px;
 }
 
+a{
+	color:#9C1100;
+}
+a:hover, a:focus, a:active{
+	color:#000;
+}
+
 .navbar-red{
 	background-color:#D42900;
 }
@@ -72,7 +79,7 @@ body{
 }
 
 footer{
-	background-color:#48403E;
+	background-color:#292120;
 	height:150px;
 	padding-top:50px;
 	color:#fff;
