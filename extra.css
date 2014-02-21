@@ -11,7 +11,7 @@ a:hover, a:focus, a:active{
 }
 
 .navbar-red{
-	background-color:#D42900;
+	background-color:#880D00;
 }
 
 .navbar-red a{
@@ -19,8 +19,8 @@ a:hover, a:focus, a:active{
 }
 
 .header{
-	background-color:#BF2E14;
-	background-image:url('dist/img/red_bg.png');
+	background-color:#930E00;
+	background-image:url('dist/img/red_bg2.png');
 	background-repeat: repeat;
 	height:460px;
 }
@@ -88,5 +88,5 @@ footer{
 .nav > li > a:hover,
 .nav > li > a:focus {
   text-decoration: none;
-  background-color: #b23218;
+  background-color: #930E00;
 }
