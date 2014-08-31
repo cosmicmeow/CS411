@@ -26,7 +26,7 @@ h5{
 
 .header{
 	background-color:#930E00;
-	background-image:url('dist/img/mainbg.png');
+	background-image:url('assets/img/mainbg.png');
 	background-repeat: no-repeat;
 	background-size:cover;
 	height:530px;
@@ -124,7 +124,7 @@ footer{
 */
 
 .withbg{
-	background-image:url(dist/img/red_bg2.png);background-repeat:repeat;
+	background-image:url(assets/img/red_bg2.png);background-repeat:repeat;
 }
 
 
