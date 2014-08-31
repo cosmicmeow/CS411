@@ -16,13 +16,6 @@ h5{
 	color:#880D00;
 }
 
-.navbar-red{
-	background-color:#930E00;
-}
-
-.navbar-red a{
-	color:#fff;
-}
 
 .header{
 	background-color:#930E00;
@@ -110,19 +103,6 @@ footer{
 	color:#fff;
 }
 
-.nav > li > a:hover,
-.nav > li > a:focus {
-  text-decoration: none;
-  background-color:#930E00;
-}
-/*
-.nav.hasScrolled > li > a:hover,
-.nav.hasScrolled > li > a:focus {
-  text-decoration: none;
-  background-color: #930E00;
-}
-*/
-
 .withbg{
 	background-image:url(assets/img/red_bg2.png);background-repeat:repeat;
 }
@@ -149,9 +129,6 @@ hr{
 	border-color:#ccc;
 }
 
-.hasScrolled{
-	background-color:#880D00;
-}
 
 .one-edge-shadow {
 	-webkit-box-shadow: 1px 7px 50px -4px rgba(0,0,0,0.75);
