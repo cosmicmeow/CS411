@@ -19,6 +19,27 @@
   color: #333;
   background-color: rgba(255, 255, 255, 0.5); }
 
+#accordion .panel-heading {
+  background-color: #930E00; }
+  #accordion .panel-heading span.rotated {
+    transition: 0.25s ease;
+    -webkit-transform: rotate(-90deg);
+    -moz-transform: rotate(-90deg); }
+  #accordion .panel-heading a {
+    color: #fff;
+    font-size: 30px; }
+#accordion .panel-body {
+  margin: 0;
+  padding: 0; }
+  #accordion .panel-body h3 {
+    font-size: 20px;
+    margin: 10px; }
+  #accordion .panel-body hr.dotted {
+    border-style: dotted;
+    border-color: #930E00; }
+  #accordion .panel-body .col-lg-12 {
+    padding: 20px; }
+
 body {
   font-family: 'Maven Pro', sans-serif;
   font-size: 15px; }

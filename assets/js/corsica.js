@@ -14,4 +14,23 @@ $document.scroll(function() {
 $(function(){
 	$("#navbar").load("navbar.html"); 
 	$("footer").load("footer.html"); 
+
+  $('#panel_cs410').collapse({
+    hide: true
+  });
+
+  $('#panel_cs411').collapse({
+    toggle: true,
+    hide: false
+  });
+
+  $(".panel-title").on("click", function(){
+    if ($(this).find("span").hasClass("rotated")){
+      $(this).find("span").removeClass("rotated");
+    }
+    else{
+      $(this).find("span").addClass("rotated");
+    }
+  });
+
 });
